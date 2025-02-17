@@ -1,6 +1,6 @@
 # Portfolio
 <h2>프로젝트</h2>
-AI를 확용한 칵테일 비대면 주문과 관리 사이트(https://github.com/GayeonHong726/LubberDuck.git)
+[AI를 확용한 칵테일 비대면 주문과 관리 사이트](https://github.com/GayeonHong726/LubberDuck.git)
 
 <h2>개요</h2>
 - 손님들에게 편리한 칵테일 비대면 주문과 개인활동 관리 기능을 제공하고, 관리자에게는 컨텐츠 관리 기능을 제공합니다.

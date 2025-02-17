@@ -17,8 +17,6 @@
 - Database: MySQL, MyBatis
 - Deployment: AWS, RDS
 
-<hr>
-
 ### 프로젝트
 [비행 관련 편의 서비스를 제공하는 웹 프로젝트](https://github.com/GayeonHong726/RubberFlightProject.git)
 
@@ -36,8 +34,6 @@
 - Backend: Spring Boot, JPA
 - API & Tools: Postman, Google Open API
 - Deployment: AWS (EC2, RDS, Nginx)
-
-<hr>
 
 # 코리아IT아카데미
 ### 이수과정명

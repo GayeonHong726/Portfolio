@@ -1,5 +1,5 @@
 # Portfolio
-### 프로젝트
+### 프로젝트 1
 [두산베어스 웹페이지 마크업](https://github.com/GayeonHong726/Doosan.git)
 
 ### 개요
@@ -15,7 +15,7 @@
 - HTML, CSS, JavaScript, REST API, jQuery AJAX
 <hr>
 
-### 프로젝트
+### 프로젝트 2
 [AI를 활용한 칵테일 비대면 주문과 관리 사이트](https://github.com/GayeonHong726/LubberDuck.git)
 
 ### 개요
@@ -34,7 +34,7 @@
 - Deployment: AWS (EC2, RDS)
 <hr>
 
-### 프로젝트
+### 프로젝트 3
 [비행 관련 편의 서비스를 제공하는 웹 프로젝트](https://github.com/GayeonHong726/RubberFlightProject.git)
 
 ### 개요

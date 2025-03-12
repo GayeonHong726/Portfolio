@@ -13,7 +13,7 @@
 
 ### 사용 스킬
 - HTML, CSS, JavaScript, REST API, jQuery AJAX
-  
+<hr>
 ### 프로젝트
 [AI를 활용한 칵테일 비대면 주문과 관리 사이트](https://github.com/GayeonHong726/LubberDuck.git)
 
@@ -31,7 +31,7 @@
 - Frontend: HTML, CSS, JavaScript, Bootstrap, jQuery AJAX, Thymeleaf
 - Database: MySQL, MyBatis
 - Deployment: AWS (EC2, RDS)
-
+<hr>
 ### 프로젝트
 [비행 관련 편의 서비스를 제공하는 웹 프로젝트](https://github.com/GayeonHong726/RubberFlightProject.git)
 
@@ -48,7 +48,7 @@
 - FW & LB : Spring Boot, React, JPA
 - API : POSTMAN
 - Deployment: AWS (EC2, RDS, Nginx)
-
+<hr>
 # 코리아IT아카데미
 ### 이수과정명
 공공데이터를 융합한 자바기반 Spring 웹개발자 양성 과정
